@@ -19,8 +19,8 @@ A minimal Python project demonstrating environment variable configuration, secre
 1. Clone this repository:
 
    ```bash
-   git clone <REPOSITORY_URL>
-   cd first-github-project
+   git clone https://github.com/stylerok/test.git
+   cd test
    ```
 
 2. Create a virtual environment:
