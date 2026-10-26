@@ -89,6 +89,8 @@ API key configured: True
 
 The application displays whether the API key is configured, but never prints the key itself.
 
+If a required environment variable (APP_NAME or API_KEY) is missing, the application displays an error message identifying the missing variable and exits without a traceback.
+
 ## Environment Variables
 
 | Variable | Description | Required |
